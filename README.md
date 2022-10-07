@@ -5,7 +5,7 @@
 ## Depois:
 ![preview depois](./.github/previewdepois.png)
 
-Nesse projeto não criei um novo link pois o resultado é o projeto 2, que pode ser acessado [aqui](https://victorm-mp.github.io/Projeto1-Stage2/)
+Nesse projeto não criei um novo link pois o resultado é o projeto 2, que pode ser acessado [aqui](https://victorm-mp.github.io/Projeto-02/)
 
 ## Tecnologias 🛠
 - HTML
